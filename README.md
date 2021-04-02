@@ -1,5 +1,4 @@
 # Data Modeling with Postgres: Song Library
-> Tim B
 
 This is an ETL pipeline for a startup **Sparkify**, who wants to analyze the data they've been collecting on songs and user activity on their new music streaming app.
 
